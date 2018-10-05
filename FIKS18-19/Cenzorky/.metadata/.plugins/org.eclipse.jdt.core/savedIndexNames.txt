@@ -1,0 +1,2 @@
+INDEX VERSION 1.130+C:\Users\DjDiablo\Dropbox\Ulohy\FIKS18-19\Cenzorky\.metadata\.plugins\org.eclipse.jdt.core
+4026127373.index
