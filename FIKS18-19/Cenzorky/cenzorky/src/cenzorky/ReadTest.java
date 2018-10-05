@@ -7,7 +7,7 @@ public class ReadTest {
   { 
     // pass the path to the file as a parameter 
     File file = 
-      new File("C:\\Users\\DjDiablo\\Dropbox\\Ulohy\\FIKS18-19\\Cenzorky\\cenzorky\\src\\cenzorky\\input.txt"); 
+      new File("C:\\myFolders\\FIKS\\FIKS18-19\\Cenzorky\\cenzorky\\src\\cenzorky\\input.txt"); 
     Scanner sc = new Scanner(file); 
   
     while (sc.hasNextLine()) 
